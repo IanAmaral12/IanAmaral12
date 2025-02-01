@@ -4,3 +4,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ianamaral)
 
 <h4>I'm Ian Amaral, a full-stack web developer! 🚀</h4>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianamaral12&layout=compact&theme=merko)
+![IanAmaral12's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianamaral12&hide=contribs,prs&theme=merko)
