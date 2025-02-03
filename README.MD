@@ -15,4 +15,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+- Bachelor's degree in Computer Science, in progress (UNISAGRADO - 5/8)
+
+- Intern at the UNESP Bauru laboratory - SP
+
+- Over 3 years working in the technology market, with 1 year in software development
+
+- Always looking to learn and seeking new opportunities
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianamaral12&layout=compact&theme=merko)
