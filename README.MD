@@ -37,8 +37,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ianamaral12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianamaral12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ianamaral12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ianamaral12&layout=compact&theme=dracula"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/ianamaral12/ianamaral12/output/snake.svg" alt="Snake animation" />
