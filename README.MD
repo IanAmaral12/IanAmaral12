@@ -36,7 +36,7 @@
 
 ###
 
-<div style="margin: auto;">
+<div align="center">
   <img 
     height="150" 
     src="https://github-readme-stats-flame-three-89.vercel.app/api?username=ianamaral12&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=86400"
