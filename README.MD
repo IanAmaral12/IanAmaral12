@@ -38,12 +38,12 @@
 
 <div align="center">
   <img 
-    height="150" 
+    height="120" 
     src="https://github-readme-stats-flame-three-89.vercel.app/api?username=ianamaral12&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=86400"
   />
 
   <img 
-    height="150" 
+    height="120" 
     src="https://github-readme-stats-flame-three-89.vercel.app/api/top-langs?username=ianamaral12&layout=compact&langs_count=5&theme=dracula&cache_seconds=86400"
   />
 </div>
